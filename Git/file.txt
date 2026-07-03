@@ -1,0 +1,46 @@
+### Tutorial Repo
+
+Hi, my name is Dheeraj! 👋
+
+This is a tutorial repository designed to help you get started with basic concepts and practice version control.
+
+### 🚀 Getting Started
+
+To get a local copy up and running, follow these simple steps:
+
+### Prerequisites
+
+Make sure you have Git installed on your system.
+
+### Installation
+
+1.  Clone the repository:
+    
+    bash
+    
+        git clone https://github.com
+        
+    
+    Use code with caution.
+    
+2.  Navigate into the directory:
+    
+    bash
+    
+        cd your-repo-name
+        
+    
+    Use code with caution.
+    
+
+### 🛠️ Usage
+
+Use this space to explain how to navigate the repository, run the code, or follow along with the tutorial files.
+
+### 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+* * *
+
+Thank you for visiting!
