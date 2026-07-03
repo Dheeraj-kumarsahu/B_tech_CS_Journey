@@ -1,13 +1,12 @@
 #Purpose:-To create a school management system using JSON in Python
 #Author:-Dheeraj Kumar Sahu
 #Contact:-dheerajkumarsahu827@gmail.com
-
 import json
 from abc import ABC, abstractmethod
 from pathlib import Path
 from datetime import datetime as now
 try:
-    Database="C:\\Users\\User\\OneDrive\\Desktop\\Programming\\B_tech_CS_journey\\python_concepts\\School_data.json"
+    Database="C:\\Users\\User\\OneDrive\\Desktop\\Programming\\B_tech_CS_journey\\_management_project\\School_data.json"
     data={"Students" : [] ,"Teachers" : []}
     if Path(Database).exists():
         with open(Database,"r") as file:
