@@ -171,6 +171,8 @@ B_Tech_Journey/
 # 🚀 Current Projects
 
 - Calculator
+- CRUD on File using UI
+- Automations 
 - Student Management System
 - College Admission System
 
@@ -245,6 +247,7 @@ www.linkedin.com/in/dheeraj-kumar-sahu-0a6184418
 ### G-mail
 
 dheerajkumarsahu827@gmail.com
+
 ---
 
 # ⭐ Quote
