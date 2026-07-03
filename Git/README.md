@@ -1,6 +1,6 @@
 ### 🎓 Educational Purpose Repository
 
-Welcome to this repository! This project has been created strictly for **educational and learning purposes**.
+Welcome to this repository! This project has been created for **learning Git & Github**.
 
 * * *
 
@@ -19,9 +19,8 @@ Welcome to this repository! This project has been created strictly for **educati
 
 The primary goals of this repository are:
 
-*   To explore and experiment with new frameworks, languages, or tools.
 *   To practice writing cleaner code and implementing foundational algorithms.
-*   To act as a personal reference point for academic or professional development.
+*   To act as a personal reference point for academic or professional development in Git & Github.
 
 * * *
 
