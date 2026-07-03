@@ -1,17 +1,13 @@
 ### 🎓 Educational Purpose Repository
 
-Welcome to this repository! This project has been created strictly for **educational and learning purposes**.
+Welcome to this repository! This project has been created  for **Solving and Learning Python concepts**.
 
 * * *
 
 ### ⚠️ Educational Disclaimer
 
-> \[!WARNING\]  
-> **This repository is for educational purposes only.**
-
 *   **Not for Production:** The code, scripts, or materials provided here are meant to demonstrate specific concepts, programming styles, or theories. They are not intended, optimized, or certified for production environments.
 *   **Security & Vulnerabilities:** The implementation may prioritize simplicity and readability over comprehensive security practices. Use this code in live applications at your own risk.
-*   **No Maintenance Guarantees:** As a learning project, this repository may not be actively maintained, updated, or checked against new dependencies.
 
 * * *
 
@@ -21,7 +17,7 @@ The primary goals of this repository are:
 
 *   To explore and experiment with new frameworks, languages, or tools.
 *   To practice writing cleaner code and implementing foundational algorithms.
-*   To act as a personal reference point for academic or professional development.
+*   To act as a reference point for academic or professional development.
 
 * * *
 
